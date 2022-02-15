@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @GreyFenixCodes
-I'll set up a nice README soon..
 
-
-Hi! I'm Josh Kladis, aka GreyFenix.Codes.
+👋 Hi! I'm Josh Kladis, aka GreyFenix.Codes.
 
 I am an aspiring programmer looking to get into front-end development.
 
